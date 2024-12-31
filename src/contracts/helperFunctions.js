@@ -1,4 +1,3 @@
-const nbt = require("prismarine-nbt");
 const moment = require("moment");
 const util = require("util");
 
